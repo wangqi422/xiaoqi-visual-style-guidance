@@ -1,0 +1,4 @@
+interface:
+  display_name: "小柒视觉风格牵引提示词"
+  short_description: "优化视觉提示词，明确开始生图后批量生成至少 10 张"
+  default_prompt: "使用 $xiaoqi-visual-style-guidance 分析参考图并优化 GPT Image 2 提示词；等我明确说“开始生图”后，再用参考图和最终提示词生成至少 10 张受控变体。"
